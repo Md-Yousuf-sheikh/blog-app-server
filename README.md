@@ -1,7 +1,4 @@
 # blog-app-server
 
-## GraphQl
-## PostgreSQL
-## Typescript
-## nodejs
-## 
+## Languages use
+GraphQl , PostgreSQL, Typescript, nodejs
